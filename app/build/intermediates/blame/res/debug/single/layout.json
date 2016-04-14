@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\android_github\\SwipeMenuListView-Sample-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_app.xml",
+        "source": "D:\\android_github\\SwipeMenuListView-Sample-master\\app\\src\\main\\res\\layout\\item_list_app.xml"
+    },
+    {
+        "merged": "D:\\android_github\\SwipeMenuListView-Sample-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_app.xml",
+        "source": "D:\\android_github\\SwipeMenuListView-Sample-master1\\app\\src\\main\\res\\layout\\item_list_app.xml"
+    },
+    {
+        "merged": "D:\\android_github\\SwipeMenuListView-Sample-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\android_github\\SwipeMenuListView-Sample-master\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\android_github\\SwipeMenuListView-Sample-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
+        "source": "D:\\android_github\\SwipeMenuListView-Sample-master\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "D:\\android_github\\SwipeMenuListView-Sample-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\android_github\\SwipeMenuListView-Sample-master1\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\android_github\\SwipeMenuListView-Sample-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "D:\\android_github\\SwipeMenuListView-Sample-master1\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\android_github\\SwipeMenuListView-Sample-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
+        "source": "D:\\android_github\\SwipeMenuListView-Sample-master1\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "D:\\android_github\\SwipeMenuListView-Sample-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "D:\\android_github\\SwipeMenuListView-Sample-master\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    }
+]
